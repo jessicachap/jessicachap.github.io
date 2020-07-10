@@ -56,11 +56,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Accueil",
-        "meta_descr": "",
+        "title": "Accueil Jessica Chapuis site CV",
+        "meta_descr": "Jessica Chapuis site CV narbonne employée polyvalente",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg"
       },
       "components": [
         {
