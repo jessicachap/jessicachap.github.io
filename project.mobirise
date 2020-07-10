@@ -46,7 +46,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://jessicachap.github.io",
     "sitemapSwitcherAuto": "on",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/job-search-4515958-640-128x96.png",
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
