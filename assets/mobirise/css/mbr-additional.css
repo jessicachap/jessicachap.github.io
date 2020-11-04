@@ -687,7 +687,7 @@ section.lazy-placeholder:after {
 .cid-s3zNByzVJ3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+  background-image: url("../../../assets/images/coding-924920-960-720-960x640.jpg");
 }
 .cid-s3zNByzVJ3 P {
   color: #767676;
@@ -702,10 +702,10 @@ section.lazy-placeholder:after {
 .cid-s3zNFtWKAI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/programming-1857236-960.webp");
 }
 .cid-s3zNFtWKAI .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   text-align: center;
   font-weight: 300;
 }
@@ -789,6 +789,9 @@ section.lazy-placeholder:after {
 .cid-s3zNFtWKAI .reverseTimeline {
   display: flex;
   flex-direction: column-reverse;
+}
+.cid-s3zNFtWKAI .mbr-section-title {
+  color: #149dcc;
 }
 .cid-s3EUv5igNS {
   padding-top: 90px;
